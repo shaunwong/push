@@ -3,9 +3,9 @@ title:
 summary: >
            Summary starts here. This will appear on the issue page.
 authors:
-  -name:
-   affiliation:
-   github_username:
+  -name: Shaun Wong
+   affiliation: ETCL
+   github_username: shaunwong
    bio: >
           Bio starts here...
 
@@ -24,5 +24,4 @@ issue: 00
 layout: article
 ---
 
-And start writing your article here, in Markdown. See the style guide at
-http://push.cwcon.org/style-guide.html
+This is a basic test article I've created as I test Push/Github workflow.
